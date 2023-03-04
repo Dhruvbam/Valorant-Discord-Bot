@@ -1,6 +1,6 @@
 # Valorant-Discord-Bot
 
-## Hackwest23 Project - A 24 hour hackathon competition
+## Hackwest 2023 Project - A 24 hour hackathon competition
 
 
 Introduction:
