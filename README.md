@@ -1,4 +1,4 @@
-![alt text](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/dtmf.jpg)
+![alt text](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/valo.jpg)
 # Valorant-Discord-Bot
 
 ## Hackwest 2023 Project - A 24 hour hackathon competition
