@@ -1,15 +1,21 @@
 ![alt text](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/valo.jpg)
-# Valorant-Discord-Bot
+# Valorant-Discord-Bot - Hackwest 2023 Project
 
-## Hackwest 2023 Project - A 24 hour hackathon competition
+## Introduction
+Developed during Hackwest 2023, a 24 hour hackathon competition, the Valorant-Discord-Bot is a dynamic Discord bot designed to enhance the gaming experience for Valorant players. Valorant, a popular 5v5 FPS game with over 18M players, features unique agents and maps. Our bot offers real-time game tracking and tips, supporting players with automated functionalities directly on Discord.
 
+## Features
+- `/agent`: Randomly selects an agent for the player.
+- `/stratroulette`: Chooses a random gameplay strategy for the team.
+- `/maptips`: Provides strategies and tips for selected maps.
+- `/agent_tips`: Offers insights and strategies for playing as a selected agent.
+- `/shootingtips`: Delivers shooting tips based on the player's competitive rank.
 
-Introduction:
+## Agile Development
+We adhere to agile development methodologies, continuously integrating new features and enhancements. Deployed on Google Cloud Platform (GCP), the bot is accessible to all Valorant players on Discord.
 
-For those new to valorant it’s a 5v5, first person shooter game where you play as an agent. And it is currently played by over 18M players
+## Getting Started
+To use this bot:
+1. Add the bot to your Discord server.
+2. Use the commands listed above to interact with the bot and receive game-related assistance.
 
-Every agent has their unique abilities I believe as of now we have 20 valo agents The game picks a random map for your team to play and we have about 9 of them I can keep going but I think and hope ive covered enough for the background needed to understand our project.
-
-Game tracker is a bot on discord which has 5 functionalities as of now and we intend to keep adding more of them. We are following an agile development method so each time we add new functionalities/commands we can keep adding them to our bot We have deployed this bot on GCP so it is available for use to everyone
-
-Commands and their uses: /agent - Randomly selects an agent to play with. /stratroulette -Randomly selects a type of gameplay for the team to play with. /maptips - gives information and strategies for the map selected by the user /agent_tips -gives information and strategies for the agent selected by the user /shootingtips -gives the user shooting tips depending on his competitive rank in the game
