@@ -1,5 +1,6 @@
-![alt text](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/valo.jpg)
 # Valorant-Discord-Bot - Hackwest 2023 Project
+![alt text](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/valo.jpg)
+
 
 ## Introduction
 Developed during Hackwest 2023, a 24 hour hackathon competition, the Valorant-Discord-Bot is a dynamic Discord bot designed to enhance the gaming experience for Valorant players. Valorant, a popular 5v5 FPS game with over 18M players, features unique agents and maps. Our bot offers real-time game tracking and tips, supporting players with automated functionalities directly on Discord.
