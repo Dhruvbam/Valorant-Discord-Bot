@@ -56,4 +56,4 @@ This project was collaboratively developed by:
 The development of the Valorant Discord Bot provided an opportunity to explore real-time game integration with Discord, using Python and Flask. The project enhanced our understanding of deploying scalable applications on cloud platforms and integrating third-party APIs to create a dynamic, user-interactive experience.
 
 ### Screenshots / Demo
-![Video](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/Images/RPReplay_Final1677425932.MP4)
+[Watch the video](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/Images/RPReplay_Final1677425932.MP4)
