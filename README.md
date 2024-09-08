@@ -64,5 +64,6 @@ This project deepened our understanding of real-time systems and scalable cloud-
 
 
 ### Screenshots / Demo
+Watch Video: </br>
 [![Watch the video](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/Images/valo.jpg)](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/Images/RPReplay_Final1677425932.MP4)
 
