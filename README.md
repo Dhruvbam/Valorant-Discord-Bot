@@ -8,11 +8,11 @@ Developed during Hackwest 2023, a 24-hour hackathon competition, the **Valorant 
 The **Valorant Discord Bot** provides various commands to assist Valorant players in improving their gameplay. Whether you're looking to randomly select an agent, choose a gameplay strategy, or get tips on maps and shooting, this bot has you covered. Developed with Python and Flask, and deployed on Google Cloud Platform (GCP), the bot integrates seamlessly with Discord to provide instant, in-game assistance.
 
 ### Features
-- **/agent**: Randomly selects an agent for the player, helping to increase versatility and improve gameplay.
-- **/stratroulette**: Chooses a random gameplay strategy for the team, adding an extra challenge to the game.
-- **/maptips**: Provides strategies and tips for the selected map, improving the player's understanding and increasing their chances of winning.
-- **/agent_tips**: Offers insights and strategies for playing as a selected agent, helping players master their chosen character.
-- **/shootingtips**: Delivers shooting tips based on the player's competitive rank, aiding in improving aim and accuracy.
+- **Agent**: Randomly selects an agent for the player, helping to increase versatility and improve gameplay.
+- **Strat roulette**: Chooses a random gameplay strategy for the team, adding an extra challenge to the game.
+- **Maptips**: Provides strategies and tips for the selected map, improving the player's understanding and increasing their chances of winning.
+- **Agent tips**: Offers insights and strategies for playing as a selected agent, helping players master their chosen character.
+- **Shooting tips**: Delivers shooting tips based on the player's competitive rank, aiding in improving aim and accuracy.
 
 ### Built With
 - <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="36" height="36" alt="Python" /></a> **Python**: Core programming language used for bot development.
