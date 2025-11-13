@@ -1,5 +1,6 @@
 # Valorant Discord Bot
 ![alt text](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/Images/valo.jpg)
+
 Developed in just 24 hours during Hackwest 2023, the Valorant Discord Bot is a feature-rich tool built to support Valorant’s 18M+ player base. Designed for seamless integration with Discord, it leverages Python, Flask, and Google Cloud Platform to deliver real-time tracking, strategic recommendations, and gameplay tips, ensuring a smarter, more engaging experience for competitive FPS teams. The bot’s command set covers agent selection, tactical roulette, map and agent tips, and shooting advice powered by performance analytics, highlighting both technical proficiency and practical impact in cloud-scale bot development.
 
 ### Features
