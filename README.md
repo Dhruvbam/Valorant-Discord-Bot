@@ -58,18 +58,7 @@ This project was collaboratively developed by:
 - **Suchit Pinreddy**
 - **Vedant Supnekar**
 
-### Learning Outcome
-Developing the **Valorant Discord Bot** allowed us to gain valuable experience in:
-
-- **Real-Time Game Integration**: Implemented real-time interaction between Discord and the game, using **Python** and **Flask**, enhancing our skills in building dynamic, event-driven applications.
-- **Cloud Deployment**: Strengthened our understanding of deploying scalable applications on **cloud platforms**, ensuring smooth performance and availability.
-- **API Integration**: Gained expertise in integrating third-party APIs to enhance user functionality, creating a seamless, interactive experience for players.
-- **Scalable Bot Development**: Learned best practices for building scalable, maintainable Discord bots, including handling multiple simultaneous requests and user interactions.
-
-This project deepened our understanding of real-time systems and scalable cloud-based application development.
-
-
-### Screenshots / Demo
+## Screenshots / Demo
 Watch Video: </br>
 [![Watch the video](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/Images/valo.jpg)](https://github.com/Dhruvbam/Valorant-Discord-Bot/blob/main/Images/RPReplay_Final1677425932.MP4)
 
