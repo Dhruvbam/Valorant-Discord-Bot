@@ -45,7 +45,7 @@ Developed in just 24 hours at Hackwest 2023, Valorant Discord Bot is a cloud nat
     - `/agent_tips`: Offers tips for a selected agent.
     - `/shootingtips`: Gives shooting tips based on your rank.
 
-## Contributions / References
+## Contributions
 This project was collaboratively developed by:
 - **Dhruv Maniar**
 - **Isha Koregave**
