@@ -7,7 +7,7 @@ Developed in just 24 hours during Hackwest 2023, the Valorant Discord Bot is a f
 - <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="36" height="36" alt="Python" /></a> **Python**: Core programming language used for bot development.
 - <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="36" height="36" alt="Flask" /></a> **Flask**: Web framework used to create the backend server.
 - <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" width="36" height="36" alt="GCP" /></a> **Google Cloud Platform (GCP)**: Deployed the backend for global access.
-- - **YAML (`app.yaml`)**: Used for specifying Python 3.9 runtime and deployment configuration on Google Cloud Platform.
+- - **YAML**: Used for specifying Python 3.9 runtime and deployment configuration on Google Cloud Platform.
 - **PyMySQL**: Used to interact with the SQL database containing information on agents, maps, and strategies.
 - **PyNaCl**: Provides cryptographic support for secure communication between Discord and the bot.
 
